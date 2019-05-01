@@ -2311,3 +2311,6 @@ Processing by AuthorsController#show as HTML
   Rendering authors/show.html.erb within layouts/application
   [1m[36mPost Load (0.1ms)[0m  [1m[34mSELECT "posts".* FROM "posts" WHERE "posts"."author_id" = ?[0m  [["author_id", 1]]
   Rendered authors/show.html.erb within layouts/application (17.0ms)
+Completed 200 OK in 219ms (Views: 200.0ms | ActiveRecord: 1.3ms)
+
+
